@@ -5,9 +5,20 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Clone the repository from the github.
+Fork the repository in your github and Clone the repository from the github.
+
 ### Step 2:
-Modify settings.py and add html file in static folder.
+Make necessary changes in the settings.py.
+
+### Step 3:
+Create a folder named static. Add html files in this folder.
+
+### Step 4:
+Create your code for book cover page.
+
+### Step 5:
+Run the server. Access static and html files.
+
 ### Step 3:
 Run the program in browser.
 ## Code:
@@ -113,4 +124,4 @@ Run the program in browser.
 ![book cover output](./output.jpg)
 
 ## Result:
-The program is executed successfully.
+The Book cover page has been created successfully.
