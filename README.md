@@ -19,8 +19,6 @@ Create your code for book cover page.
 ### Step 5:
 Run the server. Access static and html files.
 
-### Step 3:
-Run the program in browser.
 ## Code:
 ```html
 <!DOCTYPE html>
