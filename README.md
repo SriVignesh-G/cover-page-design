@@ -14,10 +14,8 @@ Make necessary changes in the settings.py.
 Create a folder named static. Add html files in this folder.
 
 ### Step 4:
-Create your code for book cover page.
+Create your code for book cover page. Run the server.
 
-### Step 5:
-Run the server. Access static and html files.
 
 ## Code:
 ```html
